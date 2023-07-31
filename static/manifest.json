@@ -24,13 +24,9 @@
   "display": "minimal-ui",
   "protocol_handlers": [
       {
-        "protocol": "web+disneyplus",
-        "url": "https://disneyplus.com/%s"
-      },
-      {
           "protocol": "web+disney",
           "url": "?protocol=%s"
-      }      
+      }
   ],
   "launch_handler": {
       "route_to": "existing-client",
