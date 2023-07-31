@@ -4,17 +4,17 @@
   "start_url": "/",
   "icons": [
       {
-          "src": "favicon-192x192.c623ea1c1095529b36c52d52519308b9.png",
+          "src": "favicon192.png",
           "sizes": "192x192",
           "type": "image/png"
       },
       {
-          "src": "favicon-256x256.4b9e0d3d6ae7d06396b418da824e1b48.png",
+          "src": "favicon256.png",
           "sizes": "256x256",
           "type": "image/png"
       },
       {
-          "src": "favicon-512x512.14e916afe264c9465be1f57f26a3350a.png",
+          "src": "favicon512.png",
           "sizes": "512x512",
           "type": "image/png"
       }
